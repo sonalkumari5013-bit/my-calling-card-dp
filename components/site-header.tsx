@@ -7,6 +7,9 @@ export function SiteHeader() {
       <h1 className="text-3xl font-bold tracking-tight text-primary text-balance sm:text-4xl">
         Sonal Kumari
       </h1>
+      <p className="text-base leading-relaxed text-foreground text-pretty sm:text-lg">
+        I build backend systems, and the tests that grade AI coding agents.
+      </p>
       <ul className="flex flex-col gap-1 text-sm leading-relaxed sm:text-base">
         <li>
           <span className="text-muted-foreground">role[0] =</span> Software Engineer II at American
